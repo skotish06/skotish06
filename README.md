@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/valentinaskaminskas/)
 [![Mail Badge](https://img.shields.io/badge/valentk777@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:valentk777@gmail.com)](mailto:valentk777@gmail.com)
 
-## **I am a Senior Software Developer**
+## **aka maikah irl ✌️ he/they.**
+## hey there! I'm shouko, a 16-year-old student from Vietnam. ##
 * 💬 Let’s talk about: .NET, Testing, CI/CD, Docker, Kubernetes, DDD, CQRS, RESTful APIs, and more.
 * 🌱 I’m currently learning: React Native
 * 📫 How to reach me: Reach out and connect with me on LinkedIn! 👆
