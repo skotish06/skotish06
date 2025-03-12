@@ -12,7 +12,7 @@ aka <i>shouko.-.</i> irl ✌️ he/they.
 
 <hr/>
 
-<a href="https://github.com/valentk777">
+<a href="https://github.com/skotish06">
 
   ![Shouko's github stats](https://github-readme-stats.vercel.app/api?username=skotish06&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skotish06&langs_count=6&hide=html,css,assembly,batchfile,objective-c&layout=compact&theme=tokyonight)
